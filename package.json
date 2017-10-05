@@ -1,0 +1,13 @@
+{
+  "name": "@mizchi/ava-helper",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "enzyme": "*"
+  },
+  "dependencies": {
+    "enzyme-to-json": "^3.1.1"
+  }
+}
